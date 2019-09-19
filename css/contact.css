@@ -1,0 +1,51 @@
+title{
+    font-size: 10px;
+    color: black;
+    text-align: center;
+}
+
+.map{
+    width: 10px;
+    height: 30px;
+    display: inline-block;
+}
+
+.formtitle{
+    font-size: 90px;
+    color: black;
+    text-align: center;
+}
+
+main{
+    height: 900px;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+.form{
+    width: 500px; 
+    height: 840px;
+    border: 1px solid black;
+    margin-top: 15px;
+    float:right;
+} 
+.section{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    margin-top: 5px;
+    text-align: center;
+}
+h3{
+    margin: 0px;
+    color: white;
+}
+
+.jaune{
+    text-align: center;
+    font-size: 30px;
+}
+
+

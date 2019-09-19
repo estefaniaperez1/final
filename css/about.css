@@ -1,0 +1,48 @@
+
+header{ 
+    font-size: 80px;
+    text-align: center;
+    background-color: lightgray;
+    font-family: 'Anton', sans-serif;
+}
+
+.story{
+    width: 1260px;
+    height: 300px;
+
+}
+
+.team{
+    top: 10px;
+}
+.center{
+    text-align: center;
+}
+.pr{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.video{
+    text-align: center;
+    height: 440px;
+ }
+h1{
+    font-family: 'Gayathri', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 200px;
+    margin: 0px;
+}
+
+
+.words{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: justify;
+    padding: 20px;}
+  
+
+    
+    

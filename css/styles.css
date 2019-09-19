@@ -1,0 +1,165 @@
+
+main{
+    background-color: lightgray
+}
+
+.nav-bar{
+    background-color: black;
+    height:150px;
+}
+
+.logo{
+    align-content: left;
+    height: 102x;
+    width: 50px;
+    position: absolute;
+    top: 40px;
+    left:50px;
+    } 
+
+.top{
+    align-content: center;
+    height: 100px;
+    width:500px;
+    position: absolute;
+    top: 25px;
+    left: 350px;
+}
+
+a{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 20px;
+    color: yellow;
+}
+
+a:hover{
+    background-color: lightgray;
+}
+
+.bar{
+    list-style-type: none;
+    float: right;
+    margin: 30px;
+    color: yellow;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+.brain{
+    width: 1247px;
+}
+
+h1{
+    color: Black;
+    text-align: center;
+    font-size: 70px;
+    top: 100px;
+    font-family: 'Anton', sans-serif;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    font-size: 70px;
+    height: 40px; 
+    font-family: 'Anton', sans-serif;
+}
+
+
+h4{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+h5{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+.beyonce{
+    Color: black;
+    font-size: 50px;
+    width: 580px;
+    float:right;
+}
+
+.club{
+    color: black;
+    font-size: 20px;
+    float: right;
+    /* width: 500px; */
+}
+
+.concert{
+    height:300px;
+    width: 700px;
+    float:left;
+}
+
+.test-container {
+    width: 100%;
+}
+
+.test-col {
+    width: 48%;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.kylie{
+    height:300px;
+    float: right;
+    padding-top: 60px;
+}
+.lips{
+    float: left;
+    font-size: 20px;
+}
+
+.dominos{
+    width: 500px;
+    height: 500px;
+}
+
+.pizza{
+    width: 500px;
+    height: 450px;
+}
+
+
+/* Footer */
+
+footer{
+    height: 120px;
+    background-color: black;
+    vertical-align: bottom;
+    margin-bottom: 10px;
+}
+
+.white{
+    color:yellow;
+    text-align: center;
+}
+
+.social{
+    color: yellow;
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
